@@ -14,7 +14,7 @@ Version:	0.60.0
 Release:	25
 Group:		System/Internationalization
 License:	GPLv2
-Url:	http://aspell.sourceforge.net/
+Url:	https://aspell.sourceforge.net/
 Source0:	http://ftp.gnu.org/gnu/aspell/dict/%{languagecode}/%{fname}-%{src_ver}.tar.bz2
 
 BuildRequires:	aspell >= %{aspell_ver}
